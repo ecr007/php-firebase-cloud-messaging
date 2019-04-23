@@ -8,7 +8,7 @@ See original Firebase docs: https://firebase.google.com/docs/
 #Setup
 Install via Composer:
 ```
-composer require sngrl/php-firebase-cloud-messaging
+composer require sngrl/php-firebase-cloud-messaging:dev-master
 ```
 
 Or add this to your composer.json and run "composer update":
